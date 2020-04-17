@@ -1,7 +1,7 @@
 {
-  "name": "guitar-scale",
+  "name": "guitar-scale-master",
   "description": "",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "daisuke-tanabe <helloworld0840@gmail.com>",
   "browserslist": [
     "> 1%"
